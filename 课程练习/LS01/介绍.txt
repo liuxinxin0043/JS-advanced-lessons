@@ -1,0 +1,7 @@
+JavaScript一种直译式脚本语言，是一种动态类型、弱类型、基于原型的语言，内置支持类型。
+它的解释器被称为JavaScript引擎，为浏览器的一部分，广泛用于客户端的脚本语言，
+最早是在HTML（标准通用标记语言下的一个应用）网页上使用，用来给HTML网页增加动态功能。
+
+ECMAScript是一种由Ecma国际（前身为欧洲计算机制造商协会,英文名称是European Computer Manufacturers Association）
+通过ECMA-262标准化的脚本程序设计语言。这种语言在万维网上应用广泛，
+它往往被称为JavaScript或JScript，所以它可以理解为是JavaScript的一个标准,但实际上后两者是ECMA-262标准的实现和扩展。
